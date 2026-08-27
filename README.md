@@ -22,10 +22,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ritwik82&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ritwik82&layout=compact&theme=dracula&hide_border=false" height="165" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ritwik82&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="195" alt="stats graph" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ritwik82&theme=dracula&hide_border=false" height="195" alt="languages graph" />
+</p>
 
 <br />
 
