@@ -1,14 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ritwik%20Pavan&fontSize=60&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20Aspiring%20Open%20Source%20Contributor&descSize=20&descAlignY=60&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ritwik%20Pavan&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Aspiring%20Open%20Source%20Contributor&descSize=20&descAlignY=60&theme=tokyonight" width="100%" />
 </div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=40&lines=Welcome+to+my+GitHub+Profile!;Software+Developer;Aspiring+Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ritwik82.Ritwik82" alt="visitors" />
