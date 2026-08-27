@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ritwik%20Pavan&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Aspiring%20Open%20Source%20Contributor&descSize=20&descAlignY=60&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ritwik%20Pavan&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Aspiring%20Open%20Source%20Contributor&descSize=20&descAlignY=60&theme=synthwave" width="100%" />
 </div>
 
 <div align="center">
@@ -38,13 +38,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ritwik82&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="195" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ritwik82&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true" height="195" alt="stats graph" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ritwik82&theme=tokyonight&hide_border=false" height="195" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ritwik82&theme=synthwave&hide_border=false" height="195" alt="languages graph" />
 </p>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=synthwave" width="100%" />
 </div>
