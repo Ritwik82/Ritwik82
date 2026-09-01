@@ -9,7 +9,7 @@
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ritwik-pavan-97a7292b7/" target="_blank">
+  <a href="https://www.linkedin.com/in/RitwikPavan1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   &nbsp;&nbsp;
